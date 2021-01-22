@@ -1,11 +1,16 @@
 _repo: Against-Tetrarch_64288
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64288-h/images/cover.jpg
 creator:
   author:
     agent_name: Gilmour, A.A.O.
     gutenberg_agent_id: '52840'
     url: http://www.gutenberg.org/2009/agents/52840
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64288#Against-Tetrarch
 gutenberg_issued: '2021-01-14'
 gutenberg_type: Text
 identifiers:
